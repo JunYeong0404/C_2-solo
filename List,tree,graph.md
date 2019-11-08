@@ -185,6 +185,7 @@ print(r);
 
 >그래프 그림 설명
 
+![KakaoTalk_20191109_030859108](https://user-images.githubusercontent.com/50895748/68500343-d03d7b80-029e-11ea-88f4-632632f60935.jpg)
 
 
 
